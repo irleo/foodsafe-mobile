@@ -2,8 +2,8 @@ This project is for UI testing/designing purposes only
 
 Run these commands:
   
-  flutter clean
+    flutter clean
   
-  flutter pub get
+    flutter pub get
   
-  flutter run
+    flutter run
